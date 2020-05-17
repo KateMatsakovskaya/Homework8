@@ -463,15 +463,18 @@ header{
 .container8 .card .text p{
     text-align: center;
 }
+/* ________Container 9_________ */
+
 .container9{
-    width: 100%;
-    background-color: #f8f8f8;
-    padding: 60px 0;
-}
-.container9 .brend img{
-    width: 100%;
     max-width: 100%;
+    background-color: #f8f8f8;
+    padding: 50px 0;
 }
+
+.col_center{
+    text-align: center;
+}
+
 .container12{
     background-image: url(./images/cont12.png);
     background-repeat: no-repeat;
